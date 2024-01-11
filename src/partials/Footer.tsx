@@ -27,7 +27,7 @@ export const Footer = (props: {}) => {
         Kitsune does not store any files on our server, we only linked to the
         media which is hosted on 3rd party services.
       </p>
-      <p className="text-sm text-gray-300">&copy; Kitsune</p>
+      <p className="text-sm text-gray-300">&copy; Ankey</p>
     </footer>
   );
 };
