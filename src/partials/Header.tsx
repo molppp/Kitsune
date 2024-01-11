@@ -11,7 +11,7 @@ function Header() {
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
               <svg
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="https://cdn.discordapp.com/attachments/1185582411245948998/1194964985391099914/New_Project_16_D6EA922.png?ex=65b244dd&is=659fcfdd&hm=fe4499d6ed4b43cd33013d2abcbff3a3208d0f552b82543c2e184be2f95b776a&"
                 className="h-5 w-5"
                 fill="none"
                 viewBox="0 0 24 24"
