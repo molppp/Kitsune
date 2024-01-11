@@ -40,7 +40,7 @@ function Header() {
               </li>
               <li>
                 <a
-                  href="https://www.buymeacoffee.com/dovakiin0"
+                  href="daha.yapmadık.la"
                   target="_blank"
                 >
                   Donate
