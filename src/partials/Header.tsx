@@ -72,7 +72,7 @@ function Header() {
           </ul>
         </div>
         <div className="navbar-end gap-2 hidden lg:flex">
-          <a href="https://www.buymeacoffee.com/dovakiin0" target="_blank">
+          <a href="daha.yapmadık.la" target="_blank">
             <button className="btn btn-ghost">Donate</button>
           </a>
           <div className="w-full lg:w-1/2 mr-1">
