@@ -40,7 +40,7 @@ function Header() {
               </li>
               <li>
                 <a
-                  href="daha.yapmadık.la"
+                  href="daha.yapmadık.la.com"
                   target="_blank"
                 >
                   Donate
@@ -72,7 +72,7 @@ function Header() {
           </ul>
         </div>
         <div className="navbar-end gap-2 hidden lg:flex">
-          <a href="daha.yapmadık.la" target="_blank">
+          <a href="daha.yapmadık.la.com" target="_blank">
             <button className="btn btn-ghost">Donate</button>
           </a>
           <div className="w-full lg:w-1/2 mr-1">
